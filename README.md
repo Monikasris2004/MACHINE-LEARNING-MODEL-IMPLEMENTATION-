@@ -39,3 +39,5 @@ Data privacy, security vulnerabilities, and ethical considerations must be addre
 
 #### Conclusion
 Implementing a machine learning model requires handling data preprocessing, feature engineering, model selection, hyperparameter tuning, validation, deployment, and ethical considerations. By optimizing these aspects, developers can create robust, scalable, and efficient models that drive impactful solutions across various industries.
+#### OUTPUT
+![Image](https://github.com/user-attachments/assets/0a86f45d-c52f-4f37-bb99-312cc04ebb1a)
